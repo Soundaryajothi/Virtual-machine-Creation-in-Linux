@@ -1,5 +1,7 @@
+## EX.NO.1
 # VIRTUAL MACHINE CREATION IN LINUX
- 
+## NAME:SOUNDARYA.J
+## REG NO:212223220108
  ## AIM
 To install a Linux virtual machine (VM) using CentOS on VirtualBox or VMware Workstation.
 
